@@ -14,7 +14,7 @@ header {
 
 header h1 {
     margin: 0;
-    background-color: #007bff; /* Bleu */
+    background-color: #fdfd01; /* Jaune */
     padding: 10px 20px; /* Ajout de padding pour les boutons */
   display: inline-block; /* Permet d'ajuster la largeur automatiquement */
 }
